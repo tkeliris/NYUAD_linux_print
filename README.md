@@ -1,5 +1,5 @@
 # NYUAD_linux_print
-NYUAD pharos printer support for Linux
+New York University (Saadiyat island campus) pharos printer support for Linux
 
 ##README
 Printing on NYU Abu Dhabi printers from Ubuntu (Deb) machines.
